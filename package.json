@@ -1,0 +1,29 @@
+{
+  "name": "@ankittiwaari/connection-monitor",
+  "version": "1.0.5",
+  "description": "A simple tool to monitor your network connectivity. It will show an alert when your network transitions from connected and diconnected state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankittiwaari/connection-monitor.git"
+  },
+  "keywords": [
+    "connection-monitor",
+    "monitor",
+    "wifi",
+    "monitor",
+    "network"
+  ],
+  "author": "Ankit Tiwari",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ankittiwaari/connection-monitor/issues"
+  },
+  "homepage": "https://github.com/ankittiwaari/connection-monitor#readme",
+  "dependencies": {
+    "node-notifier": "^8.0.0"
+  }
+}
